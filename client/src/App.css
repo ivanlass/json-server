@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  height: 100%;
+  margin-top: 20px;
+  width: 100%;
+  height: 100%;
+}
+
+.btn {
+  margin: 0px;
+  height: 40px;
+}
+
+.form {
+  display: grid;
+  height: 300px;
+  margin-top: 140px;
+}
+
+.input {
+  margin-bottom: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
